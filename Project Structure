@@ -1,0 +1,25 @@
+ai-fashion-virtual-tryon/
+│
+├── client/
+│   ├── public/
+│   ├── src/
+│   │   ├── components/
+│   │   │   ├── chatbot/
+│   │   │   └── shopping/
+│   │   ├── services/
+│   │   └── App.js
+│   └── package.json
+│
+├── server/
+│   ├── config/
+│   ├── controllers/
+│   │   ├── chatController.js
+│   │   └── tryonController.js
+│   ├── routes/
+│   ├── services/
+│   ├── server.js
+│   ├── package.json
+│   └── .env.example
+│
+├── .gitignore
+└── README.md
